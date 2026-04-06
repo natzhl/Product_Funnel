@@ -68,3 +68,5 @@ ___
 >>>>отсутствие раздражения
 
 # Воронка
+
+<img width="588" height="498" alt="image" src="https://github.com/user-attachments/assets/5fc766d2-33f9-435b-b504-5cb310479efe" />
